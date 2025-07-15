@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://alaridan.github.io/alaridan-site/sitemap.xml
+Sitemap: https://alaridan.github.io/alaridan-site/sitemap.xml 
